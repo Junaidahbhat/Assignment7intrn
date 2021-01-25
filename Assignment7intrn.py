@@ -34,7 +34,7 @@ def circ_gen(B,r):
 
 B = np.array([0,0])
 C = np.array([10,0])
-OC_mid = np.array([5 ,0])
+BC_mid = np.array([5 ,0])
 
 #calculation for the points of contact of the tangents
 #the point of contact will be the point of intersection of the circles
